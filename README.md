@@ -142,13 +142,3 @@ Want to build more powerful agents?
 - [TextBlob Documentation](https://textblob.readthedocs.io/en/dev/)
 
 ---
-
-## 🪪 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. Let’s build agentic AI — together!
